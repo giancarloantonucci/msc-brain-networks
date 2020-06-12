@@ -1,4 +1,4 @@
-# Human Brain Networks
+# Human brain networks
 
 Submitted as part of the MSc in Mathematical Modelling and Scientific Computing at the University of Oxford.
 

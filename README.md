@@ -4,7 +4,7 @@ Submitted as part of the MSc in Mathematical Modelling and Scientific Computing 
 
 --------------------------
 
-This repository accompanies the report "Human Brain Networks", in which, in order to get some insights on the basic mechanisms of the human brain, I compared some datasets of human brain networks to small-world and scale-free networks. Moreover, I studied their Laplacian matrices and proposed a novel generative model.
+This repository accompanies the report "Human Brain Networks", in which I compared some datasets of human brain networks to small-world and scale-free networks in order to get some insights on the basic mechanisms of the human brain. Moreover, I studied the resulting Laplacian matrices and proposed a novel generative model.
 
 Datasets:
 - 100307_connectome_scale500: 1st brain dataset
